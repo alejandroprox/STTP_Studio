@@ -13,4 +13,4 @@ https://discord.gg/zPdDWkssZY
 
 Descarga:
 
-[[https://github.com/alejandroprox/STTP_Studio/releases/tag/v.0.1.2](https://github.com/alejandroprox/STTP_Studio/releases)](https://github.com/alejandroprox/STTP_Studio/releases/tag/v0.2.0)
+https://github.com/alejandroprox/STTP_Studio/releases)](https://github.com/alejandroprox/STTP_Studio/releases/tag/v0.2.0
