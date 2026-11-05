@@ -15,3 +15,7 @@ https://discord.gg/zPdDWkssZY
 Descarga:
 
 [https://github.com/alejandroprox/STTP_Studio/releases/tag/v0.2.0](https://github.com/alejandroprox/STTP_Studio/releases)
+
+💫⭐💫 ACTUALIZACIÓN 0.2.1
+
+Se corrigió algunos errores y se añadió cosas nuevas en sttp
